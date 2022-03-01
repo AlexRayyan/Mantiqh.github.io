@@ -46,6 +46,7 @@ body{
     background: linear-gradient(45deg,#00f1fd,#0074f7);
     background-size: 100%;
     background-repeat: repeat;
+    background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-background-clip: text;
